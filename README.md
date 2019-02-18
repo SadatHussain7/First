@@ -1,2 +1,2 @@
 # First
-First test repo
+First test repo created for learning purpose.
