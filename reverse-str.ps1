@@ -8,4 +8,5 @@ $revstr = -join($chararr)
 
 Write-Host "Reversed string is: $revstr"
 Write-Host "Original string is: $chararr"
+Write-Host "Original string is: $chararr"
 
