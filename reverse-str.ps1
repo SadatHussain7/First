@@ -9,5 +9,4 @@ $chararr = $str.ToCharArray()
 
 $revstr = -join($chararr)
 
-Write-Host "Original string is: $str"
 Write-Host "Reversed string is: $revstr"
